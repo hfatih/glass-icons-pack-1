@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Platform-Stream%20Deck%20%7C%20Evoxdeck-0078D6?style=flat-square" alt="Platformlar">
     <img src="https://img.shields.io/badge/Format-Retina%20128x128%20PNG-10B981?style=flat-square" alt="Format">
     <img src="https://img.shields.io/badge/Paket-.evoxpack%20v1.0.0-a855f7?style=flat-square" alt="Paket">
-    <img src="https://img.shields.io/badge/Lisans-MIT-blue?style=flat-square" alt="Lisans MIT">
+    <img src="https://img.shields.io/badge/Lisans-GPL--3.0-blue?style=flat-square" alt="GPL-3.0-only">
   </p>
   <p align="center">
     <img src="https://hits.sh/github.com/hfatih/glass-icons-pack-1.svg?style=flat-square&label=görüntülenme&color=5a80f0" alt="Görüntülenme">
@@ -97,5 +97,7 @@ flowchart TD
 
 ## Lisans
 
-**MIT Lisansı** altında sunulmaktadır. Kişisel ve ticari yayınlarda serbestçe kullanılabilir.
+**GNU GPL v3.0** altında sunulmaktadır. Kişisel ve ticari yayınlarda serbestçe kullanılabilir.
 💖 **[Fatih Han](https://github.com/Hfatih)** tarafından sevgiyle hazırlandı.
+
+Bu sürümde bize ait kod ve özgün içerik [GNU GPL v3.0](LICENSE) (GPL-3.0-only) altında yayımlanır. Üçüncü taraf kod, yazı tipleri, görseller, veriler ve marka öğeleri kendi lisans ve atıflarına tabidir. [Önceki lisans ve telif bildirimi](licenses/previous-license.txt).

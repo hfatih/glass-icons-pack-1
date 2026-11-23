@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Platforms-Stream%20Deck%20%7C%20Evoxdeck-0078D6?style=flat-square" alt="Platforms">
     <img src="https://img.shields.io/badge/Format-Retina%20128x128%20PNG-10B981?style=flat-square" alt="Format">
     <img src="https://img.shields.io/badge/Package-.evoxpack%20v1.0.0-a855f7?style=flat-square" alt="Package">
-    <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License MIT">
+    <img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square" alt="GPL-3.0-only">
   </p>
   <p align="center">
     <img src="https://hits.sh/github.com/hfatih/glass-icons-pack-1.svg?style=flat-square&label=views&color=5a80f0" alt="Views">
@@ -107,5 +107,7 @@ The `.evoxpack` conforms strictly to the **Evoxdeck Package Specification v1**:
 
 ## License
 
-Distributed under the **MIT License**. Free for personal and commercial stream setups.
+Distributed under the **GNU GPL v3.0**. Free for personal and commercial stream setups.
 Authored with 💖 by **[Fatih Han](https://github.com/Hfatih)**.
+
+Project-owned code and original material in this revision are licensed under [GNU GPL v3.0](LICENSE) (GPL-3.0-only). Third-party code, fonts, imagery, data, and brand assets retain their own terms and attributions. [Previous license and copyright notice](licenses/previous-license.txt).
